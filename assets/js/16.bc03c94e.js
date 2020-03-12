@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{348:function(t,e,n){"use strict";n.r(e);var s=n(3),o=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("blockquote",[e("p",[this._v("有时候挺无语的，人类确实交流效率极低。\n")])])])}),[],!1,null,null,null);e.default=o.exports}}]);
